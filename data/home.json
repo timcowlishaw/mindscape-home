@@ -1,0 +1,116 @@
+0 {name: "leaving home at 15", id: 0, size: 5.5, index: 0, x: 332.5542610780487, …}
+1 {name: "I didn't want to leave", id: 1, size: 1.5, index: 1, x: 313.73648375951774, …}
+2 {name: "It just happened", id: 2, size: 1, index: 2, x: 188.78661286328963, …}
+3 {name: "like the course of life", id: 3, size: 1, index: 3, x: 477.5380364049719, …}
+4 {name: "the Chinese", id: 4, size: 1, index: 4, x: 61.49770666574814, …}
+5 {name: "they go everywhere in the world", id: 5, size: 2.5, index: 5, x: 207.19618037340246, …}
+6 {name: "not home", id: 6, size: 1, index: 6, x: 457.412547415756, …}
+7 {name: "everywhere in the world is the same ", id: 7, size: 1, index: 7, x: 354.71425137712816, …}
+8 {name: "after you've seen it", id: 8, size: 1.5, index: 8, x: 226.98666557031305, …}
+{name: "alone", id: 0, size: 1.5, index: 0, x: 299.5406644999277, …}
+1 {name: "the only one in the country", id: 1, size: 3.5, index: 1, x: 480.0219004936358, …}
+2 {name: "parents", id: 2, size: 1.5, index: 2, x: 411.83107728522907, …}
+3 {name: "home", id: 3, size: 3.5, index: 3, x: 196.84038206785573, …}
+4 {name: "school", id: 4, size: 1, index: 4, x: 404.7708269198724, …}
+5 {name: "friends", id: 5, size: 1, index: 5, x: 162.70202898481705, …}
+6 {name: "goals", id: 6, size: 2.5, index: 6, x: 327.8220874206739, …}
+7 {name: "study", id: 7, size: 2.5, index: 7, x: 284.1105462583253, …}
+8 {name: "volunteering", id: 8, size: 1, index: 8, x: 599.0015782681841, …}
+9 {name: "awards", id: 9, size: 1.5, index: 9, x: 571.3950950152457, …}
+10 {name: "Clare's family", id: 10, size: 1, index: 10, x: 56.12421979741307, …}
+11 {name: "swimming", id: 11, size: 1, index: 11, x: 256.89220913576037, …}
+12 {name: "university", id: 12, size: 1.5, index: 12, x: 434.29024592531624, …}
+13 {name: "be the best", id: 13, size: 3.5, index: 13, x: 215.99983572810387, …}
+14 {name: "science", id: 14, size: 1, index: 14, x: 382.2664294582715, …}
+15 {name: "art", id: 15, size: 2.5, index: 15, x: 135.55847947451153, …}
+16 {name: "Shirley", id: 16, size: 1, index: 16, x: 7.571184870862414, …}
+17 {name: "connected", id: 17, size: 1, index: 17, x: 256.8709377304052, …}
+18 {name: "God", id: 18, size: 1, index: 18, x: 58.31662066100013, …}
+{name: "going back to China", id: 0, size: 1, index: 0, x: 466.90330409142985, …}
+1 {name: "leaving home", id: 1, size: 2.5, index: 1, x: 295.34165992106534, …}
+2 {name: "who am I ", id: 2, size: 1, index: 2, x: 248.49461477727797, …}
+3 {name: "Charlotte", id: 3, size: 1.5, index: 3, x: 26.47788572429525, …}
+4 {name: "leaving Chao Ying", id: 4, size: 1.5, index: 4, x: 165.58611212307417, …}
+5 {name: "Montreal", id: 5, size: 1, index: 5, x: 558.8270824274174, …}
+6 {name: "McGill ", id: 6, size: 1.5, index: 6, x: 336.9725448803642, …}
+7 {name: "leaving Toronto ", id: 7, size: 1.5, index: 7, x: 190.42941514921523, …}
+8 {name: "new start", id: 8, size: 2.5, index: 8, x: 478.5847954079068, …}
+9 {name: "new self", id: 9, size: 3.5, index: 9, x: 92.01209193779209, …}
+10 {name: "scared", id: 10, size: 1, index: 10, x: 351.619488684328, …}
+11 {name: "architecture", id: 11, size: 2.5, index: 11, x: 391.83053705786625, …}
+12 {name: "physics", id: 12, size: 1, index: 12, x: 184.83090556260612, …}
+0 {name: "leaving Montreal", id: 0, size: 1.5, index: 0, x: 175.7355606950855, …}
+1 {name: "Geneva", id: 1, size: 3.5, index: 1, x: 218.67663269488452, …}
+2 {name: "broken life", id: 2, size: 1, index: 2, x: 417.4595704089798, …}
+3 {name: "new life", id: 3, size: 1.5, index: 3, x: 262.3498089059093, …}
+4 {name: "dreams", id: 4, size: 2.5, index: 4, x: 503.84946017365695, …}
+5 {name: "CERN", id: 5, size: 1, index: 5, x: 66.61425506947526, …}
+6 {name: "unknown", id: 6, size: 2.5, index: 6, x: 355.0732938242159, …}
+7 {name: "wonders", id: 7, size: 1, index: 7, x: 472.7136563066, …}
+8 {name: "excitement", id: 8, size: 1, index: 8, x: 132.7399830231527, …}
+9 {name: "leaving home", id: 9, size: 1, index: 9, x: 319.6459372223386, …}
+10 {name: "finding home", id: 10, size: 2.5, index: 10, x: 276.4743412472757, …}
+{name: "leaving Montreal", id: 0, size: 1, index: 0, x: 234.02600227797515, …}
+1 {name: "going home", id: 1, size: 1, index: 1, x: 144.80213427938477, …}
+2 {name: "parents", id: 2, size: 1.5, index: 2, x: 84.89554398568188, …}
+3 {name: "dad is mad", id: 3, size: 2.5, index: 3, x: 262.0895584362355, …}
+4 {name: "throw away my art", id: 4, size: 1.5, index: 4, x: 296.2449708335448, …}
+5 {name: "what is life", id: 5, size: 1.5, index: 5, x: 199.48103018037133, …}
+6 {name: "who am I ", id: 6, size: 1.5, index: 6, x: 127.7853605552561, …}
+7 {name: "I need to leave", id: 7, size: 1, index: 7, x: 497.75195552431074, …}
+8 {name: "find my home", id: 8, size: 5.5, index: 8, x: 371.57869770774766, …}
+9 {name: "miss mom", id: 9, size: 1, index: 9, x: 347.09193524719103, …}
+10 {name: "miss home", id: 10, size: 1, index: 10, x: 527.7551135944648, …}
+11 {name: "leaving home", id: 11, size: 1.5, index: 11, x: 412.32260376604586, …}
+{name: "leaving for London", id: 0, size: 3.5, index: 0, x: 248.2904112801465, …}
+1 {name: "leaving Montreal", id: 1, size: 1.5, index: 1, x: 408.26580815259825, …}
+2 {name: "this is not my home", id: 2, size: 1.5, index: 2, x: 563.4042188959231, …}
+3 {name: "I have bigger dreams", id: 3, size: 5.5, index: 3, x: 166.48871969876416, …}
+4 {name: "I will be an artist", id: 4, size: 1, index: 4, x: 332.51171891276294, …}
+5 {name: "I want to see the world ", id: 5, size: 1.5, index: 5, x: 390.52342543620483, …}
+6 {name: "I will be closer to Geneva", id: 6, size: 1, index: 6, x: 174.33942324782757, …}
+7 {name: "excitement", id: 7, size: 1, index: 7, x: 320.37001639485663, …}
+8 {name: "big city, big dream", id: 8, size: 1.5, index: 8, x: 238.41411749934062, …}
+9 {name: "art", id: 9, size: 1, index: 9, x: 86.86156676167626, …}
+10 {name: "broken heart", id: 10, size: 1, index: 10, x: 478.2238144791235, …}
+11 {name: "my future", id: 11, size: 1, index: 11, x: 79.4410646711479, …}
+{name: "CERN", id: 0, size: 1, index: 0, x: 154.97407768228427, …}
+1 {name: "l'Arve", id: 1, size: 1.5, index: 1, x: 173.29336217587255, …}
+2 {name: "Tuuli's home", id: 2, size: 1.5, index: 2, x: 113.42822505842662, …}
+3 {name: "healed me", id: 3, size: 3.5, index: 3, x: 419.9242229199322, …}
+4 {name: "RCA", id: 4, size: 1, index: 4, x: 418.928961866161, …}
+5 {name: "I don't want London", id: 5, size: 1.5, index: 5, x: 265.38320951494984, …}
+6 {name: "attached", id: 6, size: 1, index: 6, x: 317.3260856053536, …}
+7 {name: "crying ", id: 7, size: 1, index: 7, x: 529.2010786557978, …}
+8 {name: "in the woods", id: 8, size: 1.5, index: 8, x: 463.66960527980257, …}
+9 {name: "water", id: 9, size: 1, index: 9, x: 270.95050703084235, …}
+10 {name: "friends", id: 10, size: 1, index: 10, x: 64.80772143885747, …}
+11 {name: "this is home", id: 11, size: 1.5, index: 11, x: 371.7686629931767, …}
+12 {name: "let me stay", id: 12, size: 5.5, index: 12, x: 220.68990387177323, …}
+{name: "leaving UK", id: 0, size: 1.5, index: 0, x: 561.9715495352474, …}
+1 {name: "I am freed", id: 1, size: 1.5, index: 1, x: 318.5715540235177, …}
+2 {name: "I found home", id: 2, size: 2.5, index: 2, x: 260.66401719359567, …}
+3 {name: "no return", id: 3, size: 1.5, index: 3, x: 476.1322373232947, …}
+4 {name: "crying", id: 4, size: 1, index: 4, x: 415.16553406342285, …}
+5 {name: "so much pain", id: 5, size: 1, index: 5, x: 519.6513557589889, …}
+6 {name: "everything will be better", id: 6, size: 1.5, index: 6, x: 65.8357778561372, …}
+7 {name: "I'm going home", id: 7, size: 1, index: 7, x: 205.06688690048787, …}
+8 {name: "Geneva", id: 8, size: 3.5, index: 8, x: 106.52804507714508, …}
+9 {name: "dream", id: 9, size: 1.5, index: 9, x: 166.6280719506625, …}
+10 {name: "all will be well", id: 10, size: 1, index: 10, x: 378.9341189673046, …}
+11 {name: "there is hope", id: 11, size: 1.5, index: 11, x: 9.051280706943952, …}
+12 {name: "I feel love", id: 12, size: 1.5, index: 12, x: 222.09455358505954, …}
+13 {name: "leaving pain", id: 13, size: 2.5, index: 13, x: 366.1016319489918, …}
+{name: "leaving Geneva", id: 0, size: 3.5, index: 0, x: 394.31027279479684, …}
+1 {name: "leaving home", id: 1, size: 3.5, index: 1, x: 340.849319725295, …}
+2 {name: "what am I doing ? ", id: 2, size: 1, index: 2, x: 533.034202290349, …}
+3 {name: "where am I going ? ", id: 3, size: 1.5, index: 3, x: 73.05992858683354, …}
+4 {name: "What the fuck is going on ? ", id: 4, size: 1, index: 4, x: 51.946395324920886, …}
+5 {name: "I am in exile", id: 5, size: 1.5, index: 5, x: 245.42821714153146, …}
+6 {name: "I have no choice", id: 6, size: 1, index: 6, x: 354.6599532454421, …}
+7 {name: "who am I? ", id: 7, size: 2.5, index: 7, x: 328.1820760220543, …}
+8 {name: "I miss Greg", id: 8, size: 1.5, index: 8, x: 222.874676553541, …}
+9 {name: "I miss home", id: 9, size: 1, index: 9, x: 95.43358951720103, …}
+10 {name: "I miss Charlotte", id: 10, size: 1, index: 10, x: 469.30113401864196, …}
+11 {name: "let me go home", id: 11, size: 1.5, index: 11, x: 480.150275071115, …}
+12 {name: "I am so alone", id: 12, size: 1.5, index: 12, x: 198.40733605331778, …}
