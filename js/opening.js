@@ -4,7 +4,7 @@ var nNodes = [];
 var width = window.innerWidth,
     height = window.innerHeight;
 
-d3.json("data/greg.json").then(function(links) {
+d3.json("data/leaving.json").then(function(links) {
     links.forEach(function(link) {
         if (nodes[link.source.name]){
             link.source = nodes[link.source.name] ;
