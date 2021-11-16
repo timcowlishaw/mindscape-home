@@ -62,9 +62,9 @@ d3.json("data/leaving.json").then(function(links) {
         .attr("class", "path")
         .data(links)
         .enter().append("path")
-        .style("fill", "#f7dd16")
+        .style("fill", "aliceblue")
         .style("stroke", 'none')
-        .style("opacity", "0.5")
+        .style("opacity", "0.35")
         .attr("class", "link").attr("marker-end", "url(#end)");
 
     var node = g.selectAll("circle")
@@ -142,10 +142,10 @@ function dragstarted(d) {
   d3.select(this).raise().classed("active", true);
 }
 
-function dragged(d) {
-  d3.select(this).select("text")
-    .attr("x", d.x = d3.event.x)
-    .attr("y", d.y = d3.event.y);
+function dragged(event, d) {
+    d.x = event.x;
+    d.y = event.y;    
+  d3.select(this).select("text").attr("transform", d=> "translate("+[d.x,d.y]+")" );
 }
 
 function dragended(d) {
