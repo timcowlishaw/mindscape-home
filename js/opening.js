@@ -33,10 +33,10 @@ d3.json("data/leaving.json").then(function(links) {
 ;
     
         // forces
-    var r = d3.forceRadial(300),
+    var r = d3.forceRadial(500),
         x = d3.forceX(width),
         y = d3.forceY(height),
-        charge = d3.forceCollide().radius(-80),
+        charge = d3.forceCollide().radius(-550),
         attract = d3.forceManyBody().strength(2),
         center = d3.forceCenter(width/2, height/2),
         collide = d3.forceCollide().radius(35).iterations(5),
@@ -62,9 +62,9 @@ d3.json("data/leaving.json").then(function(links) {
         .attr("class", "path")
         .data(links)
         .enter().append("path")
-        .style("fill", "aliceblue")
+        .style("fill", "#7DF9FF")
         .style("stroke", 'none')
-        .style("opacity", "0.35")
+        .style("opacity", "0.2")
         .attr("class", "link").attr("marker-end", "url(#end)");
 
     var node = g.selectAll("circle")
@@ -83,7 +83,7 @@ d3.json("data/leaving.json").then(function(links) {
         .enter().append("text")
         .attr("x", 3)
         .attr("y", ".3em")
-        .style("font-size", function(d){return (d.name.size+2) * 5})
+        .style("font-size", function(d){return (d.name.size+2) * 3})
         .style("fill", "aliceblue")
         .style("opacity", 0.6)
         .text(function(d) { return d.name.name; });
