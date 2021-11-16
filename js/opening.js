@@ -64,7 +64,7 @@ d3.json("data/leaving.json").then(function(links) {
         .enter().append("path")
         .style("fill", "#7DF9FF")
         .style("stroke", 'none')
-        .style("opacity", "0.2")
+        .style("opacity", "0.15")
         .attr("class", "link").attr("marker-end", "url(#end)");
 
     var node = g.selectAll("circle")
